@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class test1 {
 	protected int liczba1;
 	protected int liczba2;
-	protected String napis;
+	private String napis;
 	protected Scanner odczyt;
 	public test1(int l1, int l2, String n){
 		liczba1 = l1;
